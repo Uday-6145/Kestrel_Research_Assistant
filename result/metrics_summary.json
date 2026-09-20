@@ -1,0 +1,10 @@
+{
+  "aggregate_scores": {
+    "verdict_accuracy": 0.8,
+    "citation_recall": 0.467
+  },
+  "total_wall_clock_time_seconds": 297.8,
+  "generation_model": "openai/gpt-oss-120b",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "question_count": 15
+}
