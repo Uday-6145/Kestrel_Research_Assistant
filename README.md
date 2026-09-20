@@ -5,7 +5,7 @@ A stateful, multi-agent Retrieval-Augmented Generation (RAG) pipeline built with
 This system features multi-turn memory, strict hallucination guardrails, publication-date conflict resolution, and programmatic LangSmith evaluations.
 
 ### 📊 Observability & Traces
-**LangSmith Project Link:** `[https://smith.langchain.com/o/42a1d80d-bbdd-4399-b905-b00c4267841b/projects/p/d2231b03-5f4a-46cb-b99c-558551a51d6e?timeModel=%7B%22duration%22%3A%221h%22%7D&tab=0]`
+**LangSmith Trace Link:** `[https://smith.langchain.com/public/aaf5aaf9-5fca-420b-a07b-b755684a04a4/t]`
 *(Reviewer: Click the link above to view the 15-question dataset evaluation and runtime traces)*
 
 ---
