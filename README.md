@@ -29,7 +29,6 @@ This repository is structured according to the Kestrel Labs submission specifica
 ├── .gitignore                   # Ignores sensitive keys and local ChromaDB
 ├── README.md                    # Setup and execution instructions (This file)
 ├── design_document.md           # Architecture diagram and orchestration rationale
-├── reflection.md                # Trade-offs, latency observations, and future improvements
 ├── corpus.jsonl                 # The original, unchanged Kestrel documentation
 ├── kestrel_agent_notebook.ipynb # The primary pipeline and evaluation code
 └── results/                     # Programmatic benchmark outputs
